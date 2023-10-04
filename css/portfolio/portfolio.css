@@ -516,7 +516,7 @@ header .circle {
   width: 100%;
   height: 100%;
   top: 0px;
-  background-image: url("../img/music-grade.png");
+  background-image: url("/img/");
   /* filter: blur(5px);
   -webkit-filter: blur(5px); */
   background-position: center;
