@@ -31,8 +31,9 @@
         margin: 20px auto;
     }
 
-    #resume {
-        margin-left: 40%;
+    #gg_button {
+        margin-bottom: 40px;
+        border-radius: 5px;
     }
 
     header .column-1 {
