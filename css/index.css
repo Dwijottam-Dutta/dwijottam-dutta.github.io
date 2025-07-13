@@ -95,9 +95,12 @@ main {
 }
 
 .about {
-  display: flex;
-  margin-top: 15px;
-  font-family: 'Dosis', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 15px;
+    font-family: 'Dosis', sans-serif;
+    justify-content: center;
 }
 
 .about__title {
