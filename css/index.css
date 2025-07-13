@@ -8,7 +8,8 @@
   --title-color: #252525;
   --text-color: #383838;
   /* --bg-color: #ffd000; */
-  --bg-color: #e7c83d;
+  /* --bg-color: #e7c83d; */
+  --bg-color: #00DD6E;
 }
 
 * {
@@ -45,6 +46,17 @@ body {
 
 i{
   text-decoration: none;
+  margin-top: 5px;
+  margin-right: 8px;
+}
+
+.links{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  font-weight: 600;
 }
 
 main {
@@ -67,11 +79,11 @@ main {
 
 .profile-name {
   margin-top: 10px;
-  font-size: 31px;
+  font-size: 33px;
   /* font-weight: 900; */
   color: var(--title-color);
   font-family: "Tsukimi Rounded", serif;
-  font-weight: 400;
+  font-weight: 600;
   font-style: normal;
 }
 
